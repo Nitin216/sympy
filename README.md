@@ -7,7 +7,7 @@
 [![codecov Badge](https://codecov.io/gh/sympy/sympy/branch/master/graph/badge.svg)](https://codecov.io/gh/sympy/sympy)
 
 [![SymPy Banner](banner.svg)](https://sympy.org/)
-
+[[[Something]]]
 
 See the AUTHORS file for the list of authors.
 
